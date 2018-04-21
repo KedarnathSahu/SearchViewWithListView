@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">SearchViewProject</string>
+    <string name="search">Search</string>
+
+    <string-array name="my_foods">
+        <item>Pasta</item>
+        <item>French Fries</item>
+        <item>Ice Cream</item>
+        <item>Fried Rice</item>
+        <item>Pancakes</item>
+        <item>Burger</item>
+        <item>Pumpkin Pie</item>
+        <item>Chicken Pot Pie</item>
+        <item>Banana</item>
+        <item>Bread</item>
+        <item>Pizza</item>
+        <item>Apple Pie</item>
+        <item>Bagel</item>
+        <item>Muffins</item>
+        <item>Cheesecake</item>
+        <item>Cheese</item>
+        <item>Banana Bread</item>
+        <item>Cheetos</item>
+        <item>Doritos</item>
+        <item>Tacos</item>
+        <item>Salsa</item>
+        <item>Potato Chips</item>
+        <item>Grilled Chicken</item>
+        <item>Broccoli</item>
+        <item>Ribs</item>
+        <item>Hot Dogs</item>
+    </string-array>
+</resources>
